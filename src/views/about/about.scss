@@ -1,0 +1,14 @@
+.about__image-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.about__image-wrapper {
+  position: relative;
+  width: 26vw;
+  height: 30vh;
+  justify-self: end;
+}
+.about__image {
+  border-radius: 25vw 0px 25vw 25vw;
+}
